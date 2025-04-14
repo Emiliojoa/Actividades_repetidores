@@ -10,4 +10,12 @@ do {
     } else {
         console.log(i)
     }
-} while( i < 15)
+} while( i < 15) //ejecuta el codigo almenos una vez
+
+
+
+let o =0
+    while (o <10){
+        o++
+        console.log(o)
+    }
